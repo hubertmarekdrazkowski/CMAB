@@ -1,6 +1,19 @@
 # CMAB
-All of the materials and notes for writing master thesis on CMAB 
+All of the materials and notes for writing master thesis on CMAB.
 
-The repository: \
-Work - plan of the workwith progress, notes that would convert in the end into a manuscript - master thesis \
-Materials - all of the notes, books, links ORGANISED 
+The map of repository: \
+
+Working folder:
+- Plan of work
+- Python/R code for simulation comparison
+- Master thesis draft
+- Other relevant notes 
+
+
+Reference folder:
+- Map of reading material
+- Books
+- Articles
+- Links to other useful material
+- Notes on the material
+
